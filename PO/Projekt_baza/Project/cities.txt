@@ -1,0 +1,23 @@
+name, count, spec, szerekosc, dlugosc, above_sea_level
+Wroclaw
+640648
+51.1
+17.0333
+105
+--
+--
+Warszawa
+1764615
+52.2297
+21.0117
+79
+--
+--
+Krakow
+771069
+50.0614
+19.9365
+188
+--
+--
+

@@ -1,0 +1,23 @@
+name, spec, szerokosc, dlugosc, wysokosc, a, b
+Autostrada au1
+0
+0
+0
+0
+Wroclaw
+Warszawa
+Autostrada au2
+0
+0
+0
+0
+Wroclaw
+Krakow
+Autostrada au3
+0
+0
+0
+0
+Krakow
+Warszawa
+

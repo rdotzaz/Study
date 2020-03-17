@@ -1,0 +1,9 @@
+name, area, spec, szerokosc, dlugosc, above_
+Baltyk
+415266
+58
+20
+0
+--
+--
+

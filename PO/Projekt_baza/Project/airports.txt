@@ -1,0 +1,16 @@
+name, city, spec, szerokosc, dlugosc, wysokosc
+Lotnisko-Wroclaw
+0
+51.0611
+16.5322
+105
+Wroclaw
+--
+Lotnisko-Warszawa
+0
+52.1633
+20.9662
+79
+Warszawa
+--
+
