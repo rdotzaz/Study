@@ -26,10 +26,19 @@ Instytut Informatyki Uniwersytetu Wroclawskiego
 - Wybrane elementy praktyki projektowania oprogramowania
 - Wiedza przydatna w pierwszej pracy (Q1)
 
-## Semestr 4 (**obecny**)
+## Semestr 4
 
 - Algorytmy i Struktury Danych
 - Architektury Systemow Komputerowych
 - Rachunek Prawdopodobienstwa i Statystyka
 - O ekonomi i gospodarce inaczej
 - Kurs programowania pod Windows w technologii .NET
+
+## Semestr 5 **(obecny)**
+
+- Systemy operacyjne
+- Inżynieria oprogramowania
+- Programowanie funkcyjne
+- Komunikacja człowiek-komputer
+- Matematyka dyskretna (L)
+- Współczesne stosunki międzynarodowe
